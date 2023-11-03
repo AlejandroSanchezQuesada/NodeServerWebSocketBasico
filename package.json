@@ -1,0 +1,9 @@
+{
+  "name": "websockets-basicos",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}

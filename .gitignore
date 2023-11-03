@@ -1,0 +1,7 @@
+# Ignora el directorio node_modules/
+node_modules/
+
+# Ignora el archivo .env (si estás utilizando variables de entorno)
+.env
+
+# Otros archivos o directorios específicos que desees ignorar
